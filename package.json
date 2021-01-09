@@ -1,0 +1,8 @@
+{
+  "name": "npm-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Anartz Mugika Ledo <mugan86@gmail.com>",
+  "license": "MIT"
+}
