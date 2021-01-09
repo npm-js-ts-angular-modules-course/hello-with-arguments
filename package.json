@@ -4,5 +4,9 @@
   "description": "",
   "main": "index.js",
   "author": "Anartz Mugika Ledo <mugan86@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "anartz": "node ${npm_config_project}.js ${npm_config_name} ",
+    "check": "npm run anartz --name=${npm_config_name} --project=${npm_config_project}"
+  }
 }
